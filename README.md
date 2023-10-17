@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josedel16
-- 👀 I’m interested in mobile and web development
+- 👀 I’m interested in mobile development
 - 🌱 I’m currently learning kotlin
 - 📫 How to reach me jose.delgado16@outlook.com
 
